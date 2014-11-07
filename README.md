@@ -13,4 +13,7 @@ Starfield
 6. Very simple 2D parallax starfield: [CODE](http://www.slayweb.com/canvas/stars/) - [DEMO](http://www.slayweb.com/canvas/stars/)
 7. Easeljs (Createjs) static starfield: [CODE](http://www.igorkromin.net/index.php/2013/05/13/generate-a-nice-looking-star-field-with-easeljs-and-html5-canvas/) - [DEMO](http://jsfiddle.net/TBMTT/)
 8. Three.js starfield tutorial (move mouse to adjust speed... pretty cool slow-motion effect): [CODE](https://github.com/sebleedelisle/Tutorials/tree/master/three/Part1_particles) - [TUTORIAL](http://creativejs.com/tutorials/three-js-part-1-make-a-star-field/) -  [DEMO](http://creativejs.com/uploads/tutorials/three/Part1_particles/ThreeParticles.html)
+
+Interactive
+2d playground inspired by World of Goo #js1k: [CODE](http://js1k.com/2013-spring/details/1458) - [DEMO](http://js1k.com/2013-spring/demo/1458)
  
